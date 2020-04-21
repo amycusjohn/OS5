@@ -1,0 +1,17 @@
+README for Project 5 - USED GIT
+Amy Seidel
+Project will compile and run
+Issues: the logfile does not work. I had it working correctly until I changed something in my code - not sure what that
+was and after a panic attack later, i could not figure it out. I hope you can see what I was trying to do even though
+it does not print out. I am really unsure of what the problem is
+Also, while I was doing this project I had many many issues with hoare and cisco VPN disconnecting me
+this was just very frustrating and with a sick parent and the coronavirus being such a stress right now
+I did my best and I hope you can have mercy. I really tried.
+
+All my help was from the resources below
+Used the textbook
+https://www.tldp.org/LDP/tlk/kernel/processes.html
+https://www.gnu.org/software/make/manual/html_node/Suffix-Rules.html
+https://www.geeksforgeeks.org/bankers-algorithm-in-operating-system-2/
+https://www.tutorialspoint.com/inter_process_communication/inter_process_communication_message_queues.htm
+https://www.tutorialspoint.com/inter_process_communication/inter_process_communication_shared_memory.htm
